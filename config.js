@@ -8,8 +8,8 @@
 // global.lann = 'trial'
 // - Jika sudah maka lanjutkan untuk mengubah nomor owner dan wm.
 
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
+global.owner = ['94704029017']  
+global.mods = ['94704029017'] 
 global.prems = ['6281395861695']
 global.nameowner = 'Tio'
 global.numberowner = '6281395861695' 
